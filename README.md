@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 About me
 
-Hi! I'm an electronics engineer at LOOTUS SECURITY, a company expert in hardware cybersecurity. I like to develop hardware as well as software, including the web. 
+Hi! I'm an electronics engineer. I like to develop hardware as well as software, including the web. 
 
 Do not hesitate to contact me, I am open to work
 
