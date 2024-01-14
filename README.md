@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 About me
 
-Hi! I'm an Electronics and Software Engineer. I like to develop hardware as well as software, including the web. 
+Hi! I'm an Hardware and Software Engineer. I like to develop hardware as well as software, including the web. 
 
 Do not hesitate to contact me, I am open to work
 
