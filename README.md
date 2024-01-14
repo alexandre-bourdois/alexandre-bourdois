@@ -23,7 +23,7 @@ Do not hesitate to contact me, I am open to work
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://malt.fr/profile/alexandrebourdois">
+	<a href="https://www.malt.fr/profile/alexandrebourdois">
 		<img src="https://img.shields.io/badge/-MALT-D14836?style=for-the-badge&logo=freelancer&logoColor=white">
 	</a>
 </p>
