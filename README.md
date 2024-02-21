@@ -36,7 +36,7 @@ Do not hesitate to contact me, I am open to work
 
 ## [🪪 Portfolio *(2023)*](https://github.com/alexandre-bourdois/Portfolio)
 
-This project is a portfolio of all my professional and personal projects. In progress 
+This project is a portfolio of all my professional and personal projects. Here is the link of the web site : alexandrebourdois.com
 
 <p align="center">
 	<a href="https://github.com/alexandre-bourdois/Portfolio"><img src="https://i.imgur.com/eHv2oaE.png" width="600"></a>
