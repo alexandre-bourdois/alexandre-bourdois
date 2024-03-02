@@ -32,7 +32,13 @@ Do not hesitate to contact me, I am open to work
 
 # 📂 Projects
 
+## [🧧 HSK_AI *(2024)*](https://github.com/alexandre-bourdois/HSK_AI)
 
+This project focuses on machine learning for the accurate identification of basic Chinese characters.
+
+<p align="center">
+	<a href="https://github.com/alexandre-bourdois/HSK_AI"><img src="https://i.imgur.com/MB7Unf6.png" width="600"></a>
+</p>
 
 ## [🪪 Portfolio *(2023)*](https://github.com/alexandre-bourdois/Portfolio)
 
