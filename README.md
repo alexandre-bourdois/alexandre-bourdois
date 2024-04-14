@@ -37,7 +37,7 @@ Do not hesitate to contact me, I am open to work
 ToDoChain is a decentralized to-do list application leveraging Ethereum blockchain, Solidity smart contracts, React, and Tailwind CSS, ensuring secure task management with MetaMask integration.
 
 <p align="center">
-    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://link-to-your-todochain-image.png" width="600"></a>
+    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/oBT9WKw.png" width="600"></a>
 </p>
 
 ## [🧧 HSK_AI *(2024)*](https://github.com/alexandre-bourdois/HSK_AI)
