@@ -1,3 +1,4 @@
+
 <p align="center">
 	<a><img src="https://i.imgur.com/d27HgF4.png" width="100%"></a>
 </p>
@@ -31,11 +32,25 @@ Do not hesitate to contact me, I am open to work
 <br>
 
 # 📂 Projects
+## [🏠 Portfolio*(2024)*](https://github.com/alexandre-bourdois/Imoobe)
+
+My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
+Here is the link of the web site :  <a href="https://portfolio-2024.alexandrebourdois.com">Portfolio</a>
+<p align="center">
+    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/7IiZxVT.png" width="600"></a>
+</p>
+## [🏠 Imoobe *(2024)*](https://github.com/alexandre-bourdois/Imoobe)
+
+A modern SaaS platform built with Next.js, Prisma, and Tailwind CSS to centralize, analyze, and optimize your real estate portfolio.
+Here is the link of the web site :  <a href="https://app.imoobe.com">imoobe</a>
+<p align="center">
+    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/CReilpA.png" width="600"></a>
+</p>
 
 ## [⛓️ ToDoChain *(2024)*](https://github.com/alexandre-bourdois/ToDoChain)
 
 ToDoChain is a decentralized to-do list application leveraging Ethereum blockchain, Solidity smart contracts, React, and Tailwind CSS, ensuring secure task management with MetaMask integration.
-Here is the link of the web site :  <a href="https://todochain.alexandrebourdois.com/">https://todochain.alexandrebourdois.com</a>
+Here is the link of the web site :  <a href="https://todochain.alexandrebourdois.com/">ToDoChain</a>
 <p align="center">
     <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/AlhhdLz.png" width="600"></a>
 </p>
@@ -50,7 +65,7 @@ This project focuses on machine learning for the accurate identification of basi
 
 ## [🪪 Portfolio *(2023)*](https://github.com/alexandre-bourdois/Portfolio)
 
-This project is a portfolio of all my professional and personal projects. Here is the link of the web site : <a href="https://alexandrebourdois.com/">alexandrebourdois.com</a>
+This project is a portfolio of all my professional and personal projects. Here is the link of the web site : <a href="https://portfolio-2023.alexandrebourdois.com/">Portfolio-2023</a>
 
 <p align="center">
 	<a href="https://github.com/alexandre-bourdois/Portfolio"><img src="https://i.imgur.com/eHv2oaE.png" width="600"></a>
