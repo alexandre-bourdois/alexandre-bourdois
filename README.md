@@ -32,7 +32,7 @@ Do not hesitate to contact me, I am open to work
 <br>
 
 # 📂 Projects
-## [🏠 Portfolio *(2024)*](https://github.com/alexandre-bourdois/Portfolio_2024)
+## [🪪 Portfolio *(2024)*](https://github.com/alexandre-bourdois/Portfolio_2024)
 
 My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
 Here is the link of the web site :  <a href="https://portfolio-2024.alexandrebourdois.com">Portfolio</a>
