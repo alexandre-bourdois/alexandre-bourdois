@@ -32,7 +32,7 @@ Do not hesitate to contact me, I am open to work
 <br>
 
 # 📂 Projects
-## [🏠 Portfolio *(2024)*](https://github.com/alexandre-bourdois/Imoobe)
+## [🏠 Portfolio *(2024)*](https://github.com/alexandre-bourdois/Portfolio_2024)
 
 My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
 Here is the link of the web site :  <a href="https://portfolio-2024.alexandrebourdois.com">Portfolio</a>
@@ -64,7 +64,7 @@ This project focuses on machine learning for the accurate identification of basi
 	<a href="https://github.com/alexandre-bourdois/HSK_AI"><img src="https://i.imgur.com/MB7Unf6.png" width="600"></a>
 </p>
 
-## [🪪 Portfolio *(2023)*](https://github.com/alexandre-bourdois/Portfolio)
+## [🪪 Portfolio *(2023)*](https://github.com/alexandre-bourdois/Portfolio_2023)
 
 This project is a portfolio of all my professional and personal projects. Here is the link of the web site : <a href="https://portfolio-2023.alexandrebourdois.com/">Portfolio-2023</a>
 
