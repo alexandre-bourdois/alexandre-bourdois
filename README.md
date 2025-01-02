@@ -37,7 +37,7 @@ Do not hesitate to contact me, I am open to work
 My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
 Here is the link of the web site :  <a href="https://portfolio-2024.alexandrebourdois.com">Portfolio</a>
 <p align="center">
-    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/7IiZxVT.png" width="600"></a>
+    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/vanteLv.png" width="600"></a>
 </p>
 
 ## [🏠 Imoobe *(2024)*](https://github.com/alexandre-bourdois/Imoobe)
