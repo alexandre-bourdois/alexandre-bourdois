@@ -37,15 +37,15 @@ Do not hesitate to contact me, I am open to work
 My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
 Here is the link of the web site :  <a href="https://portfolio-2024.alexandrebourdois.com">Portfolio</a>
 <p align="center">
-    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/vanteLv.png" width="600"></a>
+    <a href="https://github.com/alexandre-bourdois/Portfolio_2024"><img src="https://i.imgur.com/vanteLv.png" width="600"></a>
 </p>
 
 ## [🏠 Imoobe *(2024)*](https://github.com/alexandre-bourdois/Imoobe)
 
 A modern SaaS platform built with Next.js, Prisma, and Tailwind CSS to centralize, analyze, and optimize your real estate portfolio.
-Here is the link of the web site :  <a href="https://app.imoobe.com">imoobe</a>
+Here is the link of the web site :  <a href="https://imoobe.com">imoobe</a>
 <p align="center">
-    <a href="https://github.com/alexandre-bourdois/ToDoChain"><img src="https://i.imgur.com/CReilpA.png" width="600"></a>
+    <a href="https://github.com/alexandre-bourdois/Imoobe"><img src="https://i.imgur.com/CReilpA.png" width="600"></a>
 </p>
 
 ## [⛓️ ToDoChain *(2024)*](https://github.com/alexandre-bourdois/ToDoChain)
