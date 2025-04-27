@@ -1,4 +1,5 @@
 
+
 <p align="center">
 	<a><img src="https://i.imgur.com/d27HgF4.png" width="100%"></a>
 </p>
@@ -7,7 +8,7 @@
 
 # 👨🏻‍💻 About me
 
-Hi! I'm an Hardware and Software Engineer. I like to develop hardware as well as software, including the web. 
+Hi! I'm Software Engineer. I like to develop hardware as well as software, including the web. 
 
 Do not hesitate to contact me, I am open to work
 
@@ -32,6 +33,16 @@ Do not hesitate to contact me, I am open to work
 <br>
 
 # 📂 Projects
+
+## [🪙 NoRug.fun *(2025)*](https://github.com/pylejeune/norug-fun)
+
+NoRug.fun is a selective token launchpad built on the Solana blockchain, developed in a team of three during the Alyra training and continued for the Solana Colosseum Breakpoint hackathon.
+The platform is built using Next.js, Anchor with Rust, and TypeScript, offering a secure and curated environment for token launches.
+Here is the link of the web site :  <a href="https://norug-fun.vercel.app/en/howitworks">NoRug.fun</a>
+<p align="center">
+    <a href="https://github.com/alexandre-bourdois/Portfolio_2024"><img src="https://i.imgur.com/hpjXERK.png" width="600"></a>
+</p>
+
 ## [🪪 Portfolio *(2024)*](https://github.com/alexandre-bourdois/Portfolio_2024)
 
 My latest online portfolio, created in 2024 in TypeScript with NextJS, Tailwind CSS and React, showcasing my latest personal projects and my professional evolution.
